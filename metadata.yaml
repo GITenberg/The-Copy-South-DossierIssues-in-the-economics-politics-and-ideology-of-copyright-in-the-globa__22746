@@ -1,0 +1,27 @@
+_repo: The-Copy-South-DossierIssues-in-the-economics-politics-and-ideology-of-copyright-in-the-globa__22746
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Story, Alan
+    gutenberg_agent_id: '25516'
+    url: http://www.gutenberg.org/2009/agents/25516
+description: ''
+gutenberg_issued: '2007-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'K'
+- !lcsh 'Copyright -- Economic aspects'
+- !lcsh 'Copyright, International'
+title: 'The Copy/South Dossier
+
+  Issues in the economics, politics, and ideology of copyright in the global South'
+url: http://www.gutenberg.org/ebooks/22746
